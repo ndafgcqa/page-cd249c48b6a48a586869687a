@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7063a26790be359e80ed44ae",
+  "owner": "ndafgcqa",
+  "repo": "page-cd249c48b6a48a586869687a",
+  "title": "奶瓶(Nerwo)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cd249c48b6a48a586869687a",
+      "a": "奶瓶(Nerwo)",
+      "b": "",
+      "entity": "奶瓶(Nerwo)",
+      "brand": "奶瓶(Nerwo)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "97ec0bf3682e8cf6bbb81e222cdb8819d1505de979959941db38d312437adc7f",
+      "content": {
+        "keyword1": "奶瓶(Nerwo)",
+        "keyword2": "",
+        "primary_entity": "奶瓶(Nerwo)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "奶瓶(Nerwo)官方网站提供机场订阅、VPN梯子网络加速与多端客户端下载指引，涵盖基础版、旗舰版、团队版套餐及从订阅到连接的配置流程说明。",
+          "AI_DESCRIPTION": "奶瓶(Nerwo)官方网站提供机场订阅、VPN梯子网络加速与多端客户端下载指引，涵盖基础版、旗舰版、团队版套餐及从订阅到连接的配置流程说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#FFF8F5;color:#2D2A26;font-size:16px;line-height:1.75;word-wrap:break-word}a{color:#C44536;text-decoration:underline}header{background:#E85A4F;color:#fff;padding:14px 0}header a{color:#fff;text-decoration:none}.wrap{max-width:720px;margin:0 auto;padding:0 16px}.brand{font-size:1.2rem;font-weight:700;margin:0 0 10px}nav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px 14px}nav li{font-size:14px}main{max-width:720px;margin:0 auto;padding:24px 16px 40px}h1{font-size:1.7rem;line-height:1.3;color:#C44536;margin:0 0 12px}h2{font-size:1.32rem;color:#C44536;margin:28px 0 10px;padding-bottom:6px;border-bottom:2px solid #F0D9D0}h3{font-size:1.08rem;margin:14px 0 8px;color:#2D2A26}.lead{font-size:1.02rem;color:#5C5854;margin:0 0 18px}.step{background:#fff;border:1px solid #F0D9D0;border-left:4px solid #E85A4F;border-radius:8px;padding:14px 16px;margin:12px 0}.num{display:inline-block;width:26px;height:26px;line-height:26px;text-align:center;border-radius:50%;background:#E85A4F;color:#fff;font-weight:700;font-size:14px;margin-right:6px}.plan{background:#fff;border:1px solid #F0D9D0;border-radius:8px;padding:18px;margin:14px 0}.plan.featured{border:2px solid #E85A4F;background:#FFF5F3}.badge{display:inline-block;background:#E85A4F;color:#fff;font-size:12px;padding:2px 8px;border-radius:4px;margin-left:6px}.price{font-size:1.35rem;font-weight:700;margin:6px 0}.annual{color:#5C5854;font-size:.95rem;margin:0 0 8px}.plan ul{margin:8px 0 0;padding-left:20px}details{background:#fff;border:1px solid #F0D9D0;border-radius:6px;margin:10px 0;padding:0 14px}summary{padding:12px 0;font-weight:600}details p{margin:0 0 12px;color:#5C5854}footer{background:#FDF2ED;padding:24px 16px 32px;color:#5C5854;font-size:14px}footer .wrap{max-width:720px}footer h2{font-size:1.08rem;margin-top:18px}footer ul{padding-left:18px;margin:8px 0}footer a{color:#C44536}</style><header><div class=\"wrap\"><p class=\"brand\">奶瓶(Nerwo)</p><nav><ul><li><a href=\"#intro\">简介</a></li><li><a href=\"#scenes\">场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#plans\">套餐</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></div></header><main><h1>奶瓶(Nerwo) — 机场订阅与网络加速官方网站</h1><p class=\"lead\">奶瓶(Nerwo)提供机场订阅与VPN梯子网络加速服务。本页说明套餐、使用场景、客户端下载路径，以及从获取订阅到成功连接的配置流程。</p><section id=\"intro\"><h2>品牌简介</h2><p>奶瓶(Nerwo)是面向个人用户与小团队的机场服务。用户通过订阅获得节点与流量额度，再在常用客户端中导入即可实现网络加速、跨境访问与流媒体解锁。品牌名称保留「奶瓶」原意与英文 Nerwo，官方网站用于公布套餐、操作说明与下载指引，避免在非官方渠道泄露订阅信息。</p><p>服务形态以机场订阅为主，兼容 Clash、Shadowrocket、Stash、Surge、v2rayN 等主流客户端。线路覆盖常见出海方向，旗舰与团队方案包含 IPLC 专线优化，便于游戏与大文件传输。本站内容围绕配置流程编写，方便第一次使用机场的用户按步骤完成。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>需要观看海外剧集、直播或资料站点时，可选择已解锁的节点。基础版覆盖基础流媒体需求；旗舰版与团队版强调全节点原生解锁，减少地区限制带来的中断。</p><h3>游戏与实时对战</h3><p>对延迟敏感的对战与更新下载，可优先使用带 IPLC 说明的线路。旗舰版明确包含游戏加速优化，适合晚高峰仍需相对稳定往返时延的用户。</p><h3>办公协作与多设备</h3><p>远程桌面、代码仓库、云盘同步等场景依赖持续在线。套餐按同时在线设备数区分，家庭或小型团队可按人数选择基础、旗舰或团队方案，避免频繁顶号。</p></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>以下为推荐的纵向步骤。完成订阅后，核心是「下载客户端 → 导入订阅 → 更新节点 → 选择线路连接」。请保持系统时间准确，并只从各客户端官方来源安装软件。</p><div class=\"step\"><h3><span class=\"num\">1</span>选择套餐并保存订阅地址</h3><p>对照下方方案确认流量、设备数与线路类型。付款完成后在账户中复制订阅链接（Clash / 通用订阅均可）。请将链接保存在本地备忘，不要公开分享。年付与月付仅影响结算周期，导入方式相同。</p></div><div class=\"step\"><h3><span class=\"num\">2</span>按系统下载客户端</h3><p>Windows 可使用 Clash Verge 或 v2rayN；macOS 可使用 ClashX 或 Surge；iOS 常用 Shadowrocket 或 Stash；Android 常用 Clash Meta for Android。请到对应软件的官方站点或应用商店获取安装包，本站不托管安装文件，只提供导入与连接说明。详见<a href=\"#download\">客户端下载</a>。</p></div><div class=\"step\"><h3><span class=\"num\">3</span>导入订阅并更新节点</h3><p>打开客户端，找到订阅 / 配置 / Profile 入口，粘贴奶瓶(Nerwo)订阅地址并保存。执行一次「更新」，确认节点列表出现香港、日本、新加坡、美国、台湾等线路。若列表为空，检查链接是否完整、网络是否可访问更新源。</p></div><div class=\"step\"><h3><span class=\"num\">4</span>选择节点并开启系统代理</h3><p>按场景挑选节点：浏览与视频优先低延迟解锁线路，游戏优先 IPLC 或游戏优化节点。开启 TUN / 系统代理 / VPN 模式（名称因客户端而异），确保浏览器或游戏走代理。可先访问状态检测页确认出口 IP 已切换。</p></div><div class=\"step\"><h3><span class=\"num\">5</span>验证与日常维护</h3><p>播放一段视频或进入游戏房间，观察卡顿与丢包。日常只需定期点击更新订阅。更换套餐后旧链接可能失效，需替换为新地址。连接异常时先切换节点、更换协议或重启客户端，再对照<a href=\"#faq\">常见问题</a>排查。</p></div></section><section id=\"plans\"><h2>套餐方案</h2><p>价格按月展示，年付已折算为约十个月费用。流量为每月极速额度，设备数为同时在线上限。请按实际使用强度选择，避免把团队需求压在基础版上。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版<span class=\"badge\">重点推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"download\"><h2>客户端下载与官方指引</h2><p>奶瓶(Nerwo)官网不提供破解包或来路不明的安装器。请分别前往各客户端官方网站、GitHub Release 或手机应用商店下载，再返回本页按配置流程导入订阅。常见组合如下：桌面端 Clash 系与 v2rayN；苹果手机 Shadowrocket；安卓 Clash Meta。</p><p>下载完成后不要急于填写随机订阅。只有奶瓶(Nerwo)账户内生成的链接才能对应你的流量与设备额度。导入后若提示 TLS 或证书错误，优先更新客户端到当前稳定版。需要逐步截图式说明时，请从<a href=\"#guide\">配置流程</a>第一步开始对照。</p></section><section id=\"performance\"><h2>节点与性能说明</h2><p>节点池包含香港、日本、新加坡、美国、台湾等方向，普通线路用于日常浏览，旗舰与团队方案增加 IPLC 专线与更高带宽节点。晚高峰会进行负载调度，不承诺固定 IP。流媒体解锁以套餐标注为准：基础版为基本能力，旗舰与团队版面向全节点原生解锁。速度受本地宽带、Wi-Fi 质量与目标站点影响，建议在客户端内测速后固定常用节点。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何确认这是奶瓶(Nerwo)官方网站并开始使用？</summary><p>请认准品牌全称奶瓶(Nerwo)。本页用于公布套餐、配置流程与客户端下载指引。选定方案并取得订阅链接后，按纵向步骤安装客户端并导入即可连接，无需额外插件。</p></details><details><summary>客户端应该从哪里下载？会不会在官网直接提供安装包？</summary><p>安装包请从 Clash、Shadowrocket、Stash、Surge、v2rayN 等软件的官方渠道获取。奶瓶(Nerwo)官网提供订阅与教程，不托管第三方安装文件，以降低篡改风险。下载后回到配置流程第三步导入订阅。</p></details><details><summary>订阅导入后看不到节点或无法更新怎么办？</summary><p>检查链接是否完整复制、是否含多余空格；确认客户端能访问更新地址；将系统时间改为自动同步。然后手动点一次更新。若仍为空，更换网络再试，或对照套餐是否仍在有效期。</p></details><details><summary>基础版、旗舰版和团队版怎样选？年付有何不同？</summary><p>轻度浏览选基础版；需要更多流量、全解锁与游戏向 IPLC 选旗舰版；多成员、高带宽与定制路由选团队版。年付金额已在各套餐标明，折合约十个月月费，配置与导入步骤与月付相同。</p></details><details><summary>流量与设备数如何计算？超了会怎样？</summary><p>流量按自然月套餐额度统计，设备数指同时在线会话。基础版 3 台、旗舰版 5 台、团队版 20 台。超额后可能限速或需升级，具体以账户显示为准。建议提前在客户端关闭不用的代理会话。</p></details><details><summary>流媒体播放失败或游戏延迟高如何处理？</summary><p>先更新订阅并更换已标注解锁的节点，关闭可能冲突的本地加速器。游戏优先选择 IPLC 或游戏优化线路，并尽量使用有线网络。旗舰与团队用户可通过优先工单反馈节点质量，普通线路则适合先自行切换。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><section id=\"ads\"><h2>合作展示</h2><p>广告位：欢迎云服务、开发者工具与内容平台以文字形式洽谈展示，位置位于页脚信息区，不插入脚本或外部资源。</p></section><section id=\"links\"><h2>友情链接</h2><ul><li><a href=\"#\">客户端文档索引</a></li><li><a href=\"#\">网络加速概念入门</a></li><li><a href=\"#\">订阅导入对照表</a></li><li><a href=\"#\">节点选择与分流说明</a></li></ul></section><nav id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#performance\">节点与性能</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作展示</a></li><li><a href=\"#links\">友情链接</a></li></ul></nav><p>© 奶瓶(Nerwo) 官方网站。本页介绍机场订阅、VPN 网络加速与客户端下载路径，供用户按步骤完成配置。</p></div></footer>",
+          "hash": "87b8bb75ba7ca2da3aaeed44e584539446f64344c551960f40c6d82f362a408f",
+          "seo": {
+            "title": "奶瓶(Nerwo)官网 | 机场订阅与VPN加速器客户端下载",
+            "keywords": "奶瓶,Nerwo,奶瓶机场,奶瓶VPN,机场订阅,VPN梯子,网络加速,加速器,客户端下载,官网下载,Clash,Shadowrocket,IPLC",
+            "description": "奶瓶(Nerwo)官方网站提供机场订阅、VPN梯子网络加速与多端客户端下载指引，涵盖基础版、旗舰版、团队版套餐及从订阅到连接的配置流程说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "u4847x.cn",
+    "host": "p-2b5ec56dc9.u4847x.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "u4847x.cn",
+      "url": "https://u4847x.cn/",
+      "label": "薯条(SSRCloud)",
+      "apex": "u4847x.cn",
+      "kind": null,
+      "identity": "ctukukdef/page-f3cd9c920c93f01811dfa16d"
+    },
+    {
+      "host": "cdspgw.cn",
+      "url": "https://cdspgw.cn/",
+      "label": "奶瓶(Nerwo)",
+      "apex": "cdspgw.cn",
+      "kind": null,
+      "identity": "xepers/page-362c2f50d0751dbe3b77bc2b"
+    },
+    {
+      "host": "lnxswrv.cn",
+      "url": "https://lnxswrv.cn/",
+      "label": "奶瓶(Nerwo)",
+      "apex": "lnxswrv.cn",
+      "kind": null,
+      "identity": "hhhgjpduk/page-c30cf6a7b285380cc55a45fd"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1f59ce7836a660aa873c60d73d2fb3bde3db2b5175f924d1b908fc0e1d60f521",
+    "sitemap.xml": "4ca3724b69c65ae92b86d7aa23ac63aa10a6114a89743f644e81f1d3bd44c5fd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f1e83a13fbbc5008f2b6d709a26c3858787f455c39f9b7d2e0344ca31342c201",
+    "robots.txt": "09d1f190904e90a77de3bc9f40b044d2f6c8e31f5de67aec6fa7e64e1b2e482a",
+    "8f0a572c8dd793eeb8fe5b06166eb077.txt": "27ccb8d671d983338454f3799863d802f9a3df120636116b50ab6dbcfce789d7"
+  },
+  "revision": "5ce760eb9e871103770d29c66abb54bccbdac5db29c3e3b00fbf6f2eaaaab616"
+}
